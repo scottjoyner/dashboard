@@ -9,3 +9,10 @@ Once code is added, document the intended users, data sources, local development
 ## Status
 
 Documentation-only initialization. There is no application to install or run yet.
+
+## Repository links
+
+- [Browse the default-branch files](https://github.com/scottjoyner/dashboard/tree/master)
+- [Review repository history](https://github.com/scottjoyner/dashboard/commits/master)
+
+These links refer to this checkout and do not constitute build or deployment verification.
